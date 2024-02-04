@@ -1,0 +1,17 @@
+- Git init
+Iniciar o repositório
+
+- Git add "(nome do arquivo)"
+Adicionar o arquivo a sua branch
+
+- Git add .
+Adicionar todos os arquivos a sua branch
+
+- Git commit -m "(mensagem)"
+Para fazer um commit com uma mensagem
+
+- Git push
+Para enviar o commit para a nuvem
+
+- Git remote add origin (link do repositório)
+Para adicionar a qual repositório sera feito o push
