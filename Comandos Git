@@ -15,3 +15,11 @@ Para enviar o commit para a nuvem
 
 - Git remote add origin (link do repositório)
 Para adicionar a qual repositório sera feito o push
+
+- Git reflog
+Para ver o histórico
+
+- GIt reset hard (numero da versao)
+Para voltar a uma versão antiga
+
+
