@@ -36,3 +36,6 @@ Para puxar do GitHub a versão mais atual
 
 - Git merge (nome da branch que vai enviar)
 Para mesclar branchs
+
+- Git checkout -b (nome da nova branch) (nome da antiga branch)
+Para criar uma nova branch com outra como base
