@@ -30,3 +30,6 @@ Para criar uma branch nova
 
 - Git checkout (nome da branch)
 Para mudar a branch que esta sendo usada
+
+- Git merge (nome da branch que vai enviar)
+Para mesclar branchs
