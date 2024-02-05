@@ -39,3 +39,6 @@ Para mesclar branchs
 
 - Git checkout -b (nome da nova branch) (nome da antiga branch)
 Para criar uma nova branch com outra como base
+
+- Touch .gitignore
+Para criar um arquivo onde você vai colocar o nome do arquivo que não quer que seja adicionado do merge
