@@ -22,4 +22,13 @@ Para ver o histórico
 - GIt reset hard (numero da versao)
 Para voltar a uma versão antiga
 
+- Git branch
+Para ver quais branchs tem
 
+- Git branch (nome da branch)
+Para criar uma branch nova
+
+- Git checkout (nome da branch)
+Para mudar a branch que esta sendo usada
+
+- Git 
